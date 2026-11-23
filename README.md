@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/albertod12-ops/one-line-laugh-20261124/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 [![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/albertod12-ops/one-line-laugh-20261124/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
-A single funny sentence, at most 200 characters, written to `/output/entry.txt` by a tiny Python program for make.fun's "The One-Line Laugh" bounty. v1: the planner that only ever organised the list of things never done (129 characters).
+A single funny sentence, at most 200 characters, written to `/output/entry.txt` by a tiny Python program for make.fun's "The One-Line Laugh" bounty. v1: the planner that only ever organised the list of things never done (129 characters). v2: the smartwatch whose praise for standing up is the only applause for doing the bare minimum (112 characters).
 
 ## Run it
 
