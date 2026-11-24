@@ -1,17 +1,17 @@
-"""One-line laugh for make.fun's "The One-Line Laugh" (v2).
+"""One-line laugh for make.fun's "The One-Line Laugh" (v3).
 
-Writes a single funny sentence to /output/entry.txt: a smartwatch's praise
-for standing up, reframed as the only applause a life gets for doing the
-bare minimum. The surprise lands at the end and still makes sense, the
-everyday truth is one every smartwatch wearer recognises, and no word
-explains the joke. One sentence, 112 characters.
+Writes a single funny sentence to /output/entry.txt: Do Not Disturb,
+meant to block interruptions, instead reports that nobody tried to
+reach me at all. The surprise lands at the very end and still makes
+sense, the everyday truth is one every phone owner recognises, and no
+word explains the joke. One sentence, 98 characters.
 """
 
 import os
 
 TEXT = (
-    "My smartwatch congratulated me for standing up, which is now the only "
-    "applause I get for doing the bare minimum."
+    "I turned on Do Not Disturb and my phone immediately notified me "
+    "that no one had tried to reach me."
 )
 
 
